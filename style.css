@@ -1,0 +1,37 @@
+body{
+  margin-top:70px;
+  margin-left: 5%;
+  margin-right: 5%;
+  background:#333;
+
+  color:#fff;
+}
+
+.converter{
+  margin-bottom: 5%;
+  font-family: cursive;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.card-title{
+  font-family: cursive;
+}
+
+.card{
+  padding: 3%;
+}
+
+a{
+  text-decoration: none !important;
+  color:  #f1eded;
+}
+
+a:hover{
+  color: #fff;
+}
+
+p{
+  text-align: center;
+  text-decoration: underline;
+}
